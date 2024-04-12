@@ -10,7 +10,7 @@ If you need any help, you can create an Issue, or join our Discord server here: 
 Grab the latest .EXE from releases section, and put in anywhere on your hard disk. No need to install anything!
 ### How to compile the source code
 Dependencies:
-- Visual Studio 2022 (atleat community)
+- Visual Studio 2022 (atleast community)
 - Basic .NET developing package for VS 22
 Setup:
 - Clone the repository
